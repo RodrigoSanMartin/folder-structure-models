@@ -1,0 +1,22 @@
+# data files
+*.txt
+*.csv
+*.xlsx
+
+# checkpoints jupyter notebook
+.ipynb_checkpoints
+
+# Directory for dev support
+references/
+
+# vscode
+notebooks/.vscode/
+
+# dotenv
+*.env
+
+#Text files
+*.doc
+*.docx
+*.pdf
+*.tex
